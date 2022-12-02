@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AlgorithmsAndPrograms/static/css/main.172b56e0.css",
+    "main.js": "/AlgorithmsAndPrograms/static/js/main.0a3c3367.js",
+    "static/media/aap.pdf": "/AlgorithmsAndPrograms/static/media/aap.33df4dc1ef27def7ed4e.pdf",
+    "index.html": "/AlgorithmsAndPrograms/index.html",
+    "main.172b56e0.css.map": "/AlgorithmsAndPrograms/static/css/main.172b56e0.css.map",
+    "main.0a3c3367.js.map": "/AlgorithmsAndPrograms/static/js/main.0a3c3367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172b56e0.css",
+    "static/js/main.0a3c3367.js"
+  ]
+}
